@@ -11,7 +11,7 @@
     "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
   },
 
-  },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bonillamiranda3/npm-lab-online-web-sp-000.git"
